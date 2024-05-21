@@ -30,5 +30,6 @@
  ![DSA](https://img.shields.io/badge/DSA-%2300599CB.svg?style=for-the-badge&logo=d&logoColor=white)
  ![ML](https://img.shields.io/badge/ML-%23323330.svg?style=for-the-badge&logo=powerbi&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%23E34F233D.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![java](https://img.shields.io/badge/java-%2300599C33.svg?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/DataAnalysis-%23563D7C.svg?style=for-the-badge&logo=tabeleu&logoColor=white) 
+![Data Analysis](https://img.shields.io/badge/DataAnalysis-%23563D7C.svg?style=for-the-badge&logo=tableau&logoColor=white) 
